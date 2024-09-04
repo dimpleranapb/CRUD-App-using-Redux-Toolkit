@@ -31,8 +31,6 @@ Make sure you have the following installed on your system:
 - **Creating a User**: Use the form provided in the application to add a new user to the list.
 - **Editing a User**: Click on the edit button next to a user's name to modify their information.
 - **Deleting a User**: Click on the delete button next to a user to remove them from the list.
-- **Searching for Users**: Use the search bar to filter users by name or other criteria.
+- **Searching for Users**: Use the search bar to filter users by name.
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
